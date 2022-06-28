@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🔭 I’m currently working on my masters thesis which is on visual analysis of mobile sensing data to correlate it with mental health.
+- 👯 I’m looking to collaborate on interesting projects in Machine learning (Audio/Video/Image processing, NLP, Healcare analytics) or Data visualization using Javascript
+📫 How to reach me: Connect with me on Linked in \href{http://linkedin.com/in/mohd11/}{LinkedIn}
+Fun fact: I like Running, Working out, and hiking.
+
+
+
 <!--
 **mohd-muzamil/mohd-muzamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
