@@ -1,11 +1,9 @@
 ### Hi there 👋
-
+-[About me](https://mohd-muzamil.netlify.app)
 - 🔭 I’m currently working on my master's thesis which is on visual analysis of mobile sensing data to correlate it with mental health. Have a sneak peak of the visual techniques used [here (Visual analysis of IRIS dataset)](https://github.com/mohd-muzamil/IrisDashboard.git) and [here (Implementation using Randomly generated mobile sensing dataset since original dataset is private)](https://github.com/mohd-muzamil/flaskDashboard.git)
 - 👯 I’m open to collaborate on interesting projects in Machine learning (Audio/Video/Image processing, NLP, Healthcare analytics) or Data visualization using Javascript
 - 📫 How to reach me: mohd.muzamil.08 [at] outlook [dot] com or Connect with me on [LinkedIn](http://linkedin.com/in/mohd11/) 
 - Fun fact: I like running, working out, and hiking.
-
-
 
 <!--
 **mohd-muzamil/mohd-muzamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
