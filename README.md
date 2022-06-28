@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my master's thesis which is on visual analysis of mobile sensing data to correlate it with mental health. Have a sneak peak of the visual techniques used [here (Visual analysis of IRIS dataset)](https://github.com/mohd-muzamil/IrisDashboard.git) and [here (Implementation using Randomly generated mobile sensing dataset since original dataset is private)](https://github.com/mohd-muzamil/flaskDashboard.git)
 - 👯 I’m looking to collaborate on interesting projects in Machine learning (Audio/Video/Image processing, NLP, Healcare analytics) or Data visualization using Javascript
-- 📫 How to reach me: mohd.muzamil.08 [at] outlook.com or Connect with me on [LinkedIn](http://linkedin.com/in/mohd11/) 
+- 📫 How to reach me: mohd.muzamil.08 [at] outlook [dot] com or Connect with me on [LinkedIn](http://linkedin.com/in/mohd11/) 
 - Fun fact: I like running, working out, and hiking.
 
 
