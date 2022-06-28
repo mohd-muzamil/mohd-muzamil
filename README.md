@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my masters thesis which is on visual analysis of mobile sensing data to correlate it with mental health. Have a sneak peak [here](https://github.com/mohd-muzamil/IrisDashboard.git)
+- 🔭 I’m currently working on my master's thesis which is on visual analysis of mobile sensing data to correlate it with mental health. Have a sneak peak [here](https://github.com/mohd-muzamil/IrisDashboard.git)
 - 👯 I’m looking to collaborate on interesting projects in Machine learning (Audio/Video/Image processing, NLP, Healcare analytics) or Data visualization using Javascript
 - 📫 How to reach me: [email](mohd.muzamil.08@outlook.com) or Connect with me on [LinkedIn](http://linkedin.com/in/mohd11/) 
 - Fun fact: I like Running, Working out, and hiking.
