@@ -3,7 +3,6 @@
  IND🇮🇳 CAN🇨🇦 coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man: 
 
 - :scroll: Master of Computer Science (MCS), Dalhousie University, Canada
-
 - :chart_with_upwards_trend: I’m currently working on my master's thesis which is on visual analysis of mobile sensing data to correlate it with mental health. 
   <br> Have a sneak peak of the visual techniques implemented (Visual analysis of IRIS dataset)[code](https://github.com/mohd-muzamil/IrisDashboard.git) [demo](https://explorata.herokuapp.com)
   <br> and (Randomly generated mobile sensing data)[repo](https://github.com/mohd-muzamil/flaskDashboard.git) demo(not yet deployed)
