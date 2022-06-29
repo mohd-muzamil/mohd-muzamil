@@ -10,7 +10,8 @@
 - :octocat: Open to collaborate : Projects in ML(Audio/Video/Image processing, NLP, Healthcare analytics) or Data visualization using Javascript.
 - :telescope: Something I've been wanting do : build a blog to share my learning, thoughts and ideas.
 
-:postbox:mohd.muzamil.08[at]outlook[dot]com [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/mohd11/)
+:postbox:mohd.muzamil.08[at]outlook[dot]com 
+<br>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/mohd11/)
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
 
