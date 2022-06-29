@@ -1,6 +1,8 @@
 ### Hi there 👋
-Fun fact: I like running, working out, and hiking.
 [About me](https://mohd-muzamil.netlify.app)
+
+Fun fact: I like running, working out, and hiking.
+
 
 - 🔭 I’m currently working on my master's thesis which is on visual analysis of mobile sensing data to correlate it with mental health. 
   <br> Have a sneak peak of the visual techniques implemented [here](https://github.com/mohd-muzamil/IrisDashboard.git):(Visual analysis of IRIS dataset) [Demo](https://explorata.herokuapp.com) 
