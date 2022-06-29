@@ -60,10 +60,10 @@ coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man:
       </tr>
       <tr>
         <td><a href="https://github.com/mohd-muzamil/Dashboard:Traffic Incidents(UK)"><b>Dashboard-Analysis-of-Traffic-incidents-in-UK</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/mohd-muzamil/Dashboard-Analysis-of-Traffic-incidents-in-UK?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/mohd-muzamil/Dashboard-Analysis-of-Traffic-incidents-in-UK?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/mohd-muzamil/Dashboard-Analysis-of-Traffic-incidents-in-UK?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohd-muzamil/Dashboard-Analysis-of-Traffic-incidents-in-UK?style=flat-square"/></td>
+<!--         <td><img alt="Stars" src="https://img.shields.io/github/stars/mohd-muzamil/Dashboard-Analysis-of-Traffic-incidents-in-UK?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Forks" src="https://img.shields.io/github/forks/mohd-muzamil/Dashboard-Analysis-of-Traffic-incidents-in-UK?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Issues" src="https://img.shields.io/github/issues/mohd-muzamil/Dashboard-Analysis-of-Traffic-incidents-in-UK?style=flat-square"/></td> -->
+<!--         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohd-muzamil/Dashboard-Analysis-of-Traffic-incidents-in-UK?style=flat-square"/></td> -->
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohd-muzamil/Dashboard-Analysis-of-Traffic-incidents-in-UK?style=flat-square"/></td> 
       </tr>
     </tbody>
