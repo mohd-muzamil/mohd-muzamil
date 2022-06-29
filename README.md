@@ -1,5 +1,5 @@
 <!--**mohd-muzamil/mohd-muzamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-### Hi👋, I'm [Muzzu](https://mohd-muzamil.netlify.app)    ![](https://komarev.com/ghpvc/?username=mohd-muzamil&color=green&style=flat-square)
+### Hi, I'm [Muzzu](https://mohd-muzamil.netlify.app)    ![](https://komarev.com/ghpvc/?username=mohd-muzamil&color=green&style=flat-square)
 
 coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man: 
 
