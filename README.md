@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Muzzu...👋
+India🇮🇳-Canada🇨🇦
 Fun fact [about_me](https://mohd-muzamil.netlify.app): I like to coDe💻ruN🏃wOrKoUt🏋️‍♂️hIkE🧗.
 
 - 🧑‍🎓Master of Computer Science (MCS), Dalhousie University, Canada
@@ -9,7 +10,7 @@ Fun fact [about_me](https://mohd-muzamil.netlify.app): I like to coDe💻ruN🏃
 - I'm also working on creating a blog for sharing some of my learning...
 
 
-📫 Reach_me: \`mohd.muzamil.08[at]outlook[dot]com\` [LinkedIn](http://linkedin.com/in/mohd11/)
+Reach_me: 📬\`mohd.muzamil.08[at]outlook[dot]com\` [LinkedIn](http://linkedin.com/in/mohd11/)
 
 <!--**mohd-muzamil/mohd-muzamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
