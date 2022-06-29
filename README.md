@@ -9,7 +9,7 @@
 - :telescope: Something I've been wanting do : build a blog to share my learning, thoughts and ideas. 
 
 
-Reach_me: 📬\`mohd.muzamil.08[at]outlook[dot]com\` [LinkedIn](http://linkedin.com/in/mohd11/)
+Reach_me: :postbox:mohd.muzamil.08[at]outlook[dot]com [LinkedIn](http://linkedin.com/in/mohd11/)
 
 <!--**mohd-muzamil/mohd-muzamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
