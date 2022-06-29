@@ -74,4 +74,6 @@ coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man:
 
 ![](https://readme-jokes.vercel.app/api)
 
-:envelope: mohd.muzamil.08[at]outlook[dot]com | [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?&logo=linkedin)](http://linkedin.com/in/mohd11/) | ![](https://komarev.com/ghpvc/?username=mohd-muzamil&color=green&style=flat-square)
+:envelope: mohd.muzamil.08[at]outlook[dot]com 
+[![LinkedIn](https://img.shields.io/badge/-linkedin-blue?&logo=linkedin)](http://linkedin.com/in/mohd11/) 
+![](https://komarev.com/ghpvc/?username=mohd-muzamil&color=green&style=flat-square)
