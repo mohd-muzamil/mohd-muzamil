@@ -1,5 +1,5 @@
 <!--**mohd-muzamil/mohd-muzamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-### Hi, I'm [Muzzu](https://mohd-muzamil.netlify.app)    ![](https://komarev.com/ghpvc/?username=mohd-muzamil&color=green&style=flat-square)
+### Hi, I'm [Muzzu](https://mohd-muzamil.netlify.app) 
 
 coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man: 
 
@@ -74,4 +74,4 @@ coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man:
 
 ![](https://readme-jokes.vercel.app/api)
 
-:envelope: mohd.muzamil.08[at]outlook[dot]com | [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?&logo=linkedin)](http://linkedin.com/in/mohd11/)
+:envelope: mohd.muzamil.08[at]outlook[dot]com | [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?&logo=linkedin)](http://linkedin.com/in/mohd11/) | ![](https://komarev.com/ghpvc/?username=mohd-muzamil&color=green&style=flat-square)
