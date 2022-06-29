@@ -74,6 +74,6 @@ coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man:
 
 ![](https://readme-jokes.vercel.app/api)
 
-Reach me: 
-:envelope: mohd.muzamil.08[at]outlook[dot]com 
+Reach me:<br>
+:envelope: mohd.muzamil.08[at]outlook[dot]com <br>
 [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?&logo=linkedin)](http://linkedin.com/in/mohd11/)
