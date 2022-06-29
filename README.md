@@ -1,5 +1,5 @@
 <!--**mohd-muzamil/mohd-muzamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-### Hi👋, I'm [Muzzu](https://mohd-muzamil.netlify.app) ![visitors](https://visitor-badge.glitch.me/badge?page_id=mohd-muzamil.mohd.muzamil)
+### Hi👋, I'm [Muzzu](https://mohd-muzamil.netlify.app)
  IND🇮🇳 CAN🇨🇦 coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man: 
 
 - :scroll: Master of Computer Science (MCS), Dalhousie University, Canada
@@ -10,3 +10,4 @@
 - :telescope: Something I've been wanting do : build a blog to share my learning, thoughts and ideas.
 
 :postbox:mohd.muzamil.08[at]outlook[dot]com [Linkedin Badge](http://linkedin.com/in/mohd11/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mohd-muzamil.mohd.muzamil)
