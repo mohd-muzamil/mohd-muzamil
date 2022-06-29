@@ -1,5 +1,5 @@
 ### Hi👋, I'm Muzzu.
-[About_me](https://mohd-muzamil.netlify.app) IND🇮🇳 CAN🇨🇦 coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAlL:basketball_man: 
+[About_me](https://mohd-muzamil.netlify.app) IND🇮🇳 CAN🇨🇦 coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man: 
 
 - :scroll: Master of Computer Science (MCS), Dalhousie University, Canada
 - :chart_with_upwards_trend: I’m currently working on my master's thesis which is on visual analysis of mobile sensing data to correlate it with mental health. 
