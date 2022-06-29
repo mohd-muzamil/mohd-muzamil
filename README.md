@@ -20,8 +20,7 @@
 
 
 <details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-
+  <summary><b>Projects</b></summary>
   <br />
   <table>
     <thead align="center">
@@ -57,7 +56,7 @@
         <td><img alt="Forks" src="https://img.shields.io/github/forks/mohd-muzamil/changeMyPet?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/mohd-muzamil/changeMyPet?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohd-muzamil/changeMyPet?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohd-muzamil/changeMyPet?label=javascript&style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohd-muzamil/changeMyPet?style=flat-square"/></td>
       </tr>
       <tr>
         <td><a href="https://github.com/mohd-muzamil/Dashboard:Traffic Incidents(UK)"><b>👨🏻‍💻 Dashboard-Analysis-of-Traffic-incidents-in-UK</b></a></td>
