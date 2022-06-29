@@ -73,10 +73,6 @@
 
 
 ![](https://readme-jokes.vercel.app/api)
-<a href="https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python" />
-</a>
-Made with [contributors-img](https://contrib.rocks).
 
 
 :postbox:mohd.muzamil.08[at]outlook[dot]com 
