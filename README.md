@@ -75,4 +75,4 @@
 ![](https://readme-jokes.vercel.app/api)
 
 
-![https://img.shields.io/badge/-mohd.muzamil.08%40outlook.com-blue] [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?&logo=linkedin)](http://linkedin.com/in/mohd11/)
+<img src="https://img.shields.io/badge/-mohd.muzamil.08%40outlook.com-blue"> [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?&logo=linkedin)](http://linkedin.com/in/mohd11/)
