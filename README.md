@@ -73,6 +73,4 @@
 
 
 ![](https://readme-jokes.vercel.app/api)
-
-<a href="javascript:void(0);">![](https://img.shields.io/static/v1?label=&message=mohd.muzamil.08[at]outlook[dot]com&color=blue)</a>
-<a href="javascript:void(0);"><img src="https://img.shields.io/static/v1?label=&message=mohd.muzamil.08[at]outlook[dot]com&color=blue" /></a> [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?&logo=linkedin)](http://linkedin.com/in/mohd11/)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-blue?&logo=linkedin)](http://linkedin.com/in/mohd11/) mohd.muzamil.08[at]outlook[dot]com
