@@ -9,7 +9,7 @@ Fun fact : I like to coDe/ruN/wOrKoUt/hIkE.
 
 
 📫 How to reach me: mohd.muzamil.08 [at] outlook [dot] com or Connect with me on [LinkedIn](http://linkedin.com/in/mohd11/)
-[About me](https://mohd-muzamil.netlify.app)
+<br>[About me](https://mohd-muzamil.netlify.app)
 
 <!--
 **mohd-muzamil/mohd-muzamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
