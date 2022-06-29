@@ -2,7 +2,6 @@
 ### Hi👋, I'm [Muzzu](https://mohd-muzamil.netlify.app)    ![](https://komarev.com/ghpvc/?username=mohd-muzamil&color=green&style=flat-square)
  IND🇮🇳 CAN🇨🇦 coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man: 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 - :scroll: Master of Computer Science (MCS), Dalhousie University, Canada
 - :chart_with_upwards_trend: I’m currently working on my master's thesis which is on visual analysis of mobile sensing data to correlate it with mental health. 
@@ -75,3 +74,6 @@
   </table>
   <br/>
 </details>
+
+
+![](https://readme-jokes.vercel.app/api)
