@@ -13,8 +13,8 @@ Few things I enjoy: coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbA
 <details>	
   <summary><b>Github Stats</b></summary>
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohd-muzamil&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-muzamil&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohd-muzamil&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-muzamil&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
 </details>
 
 
