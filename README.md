@@ -43,15 +43,15 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohd-muzamil/IrisDashboard?style=flat-square"/></td>
       </tr>
       <tr>
-        <td><a href="https://github.com/mohd-muzamil/flaskDashboard"><b>🤓 Visual Analysis of Mobile Sensing</b></a></td>
+        <td><a href="https://github.com/mohd-muzamil/flaskDashboard"><b>Visual Analysis of Mobile Sensing</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/mohd-muzamil/flaskDashboard?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/mohd-muzamil/flaskDashboard?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/mohd-muzamil/flaskDashboard?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohd-muzamil/flaskDashboard?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohd-muzamil/flaskDashboard?style=flat-square"/></td>
       </tr>
       <tr>
-        <td><a href="https://github.com/mohd-muzamil/changeMyPet"><b>💸 Change My Pet</b></a></td>
+        <td><a href="https://github.com/mohd-muzamil/changeMyPet"><b>Change My Pet</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/mohd-muzamil/changeMyPet?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/mohd-muzamil/changeMyPet?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/mohd-muzamil/changeMyPet?style=flat-square"/></td>
@@ -59,7 +59,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohd-muzamil/changeMyPet?style=flat-square"/></td>
       </tr>
       <tr>
-        <td><a href="https://github.com/mohd-muzamil/Dashboard:Traffic Incidents(UK)"><b>👨🏻‍💻 Dashboard-Analysis-of-Traffic-incidents-in-UK</b></a></td>
+        <td><a href="https://github.com/mohd-muzamil/Dashboard:Traffic Incidents(UK)"><b>Dashboard-Analysis-of-Traffic-incidents-in-UK</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/mohd-muzamil/Dashboard-Analysis-of-Traffic-incidents-in-UK?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/mohd-muzamil/Dashboard-Analysis-of-Traffic-incidents-in-UK?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/mohd-muzamil/Dashboard-Analysis-of-Traffic-incidents-in-UK?style=flat-square"/></td>
