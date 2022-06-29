@@ -10,3 +10,11 @@
 - :telescope: Something I've been wanting do : build a blog to share my learning, thoughts and ideas.
 
 :postbox:mohd.muzamil.08[at]outlook[dot]com [Linkedin Badge](http://linkedin.com/in/mohd11/)    ![visitors](https://visitor-badge.glitch.me/badge?page_id=mohd-muzamil.mohd.muzamil)
+
+<details>	
+  <summary><b>Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
