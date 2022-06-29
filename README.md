@@ -76,4 +76,4 @@
 
 
 :postbox:mohd.muzamil.08[at]outlook[dot]com 
-<br>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/mohd11/)
+<br>[![LinkedIn](https://img.shields.io/badge/----?style=social&logo=linkedin](http://linkedin.com/in/mohd11/)
