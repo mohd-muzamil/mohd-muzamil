@@ -75,4 +75,4 @@
 ![](https://readme-jokes.vercel.app/api)
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mohd.muzamil.08@gmail.com) [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?&logo=linkedin)](http://linkedin.com/in/mohd11/)
+https://img.shields.io/badge/-mohd.muzamil.08%40outlook.com-blue [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?&logo=linkedin)](http://linkedin.com/in/mohd11/)
