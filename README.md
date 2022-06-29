@@ -1,7 +1,5 @@
 ### Hi there 👋
-[About me](https://mohd-muzamil.netlify.app)
-
-Fun fact: I like running, working out, and hiking.
+Fun fact [About me](https://mohd-muzamil.netlify.app): I like to coDe/ruN/wOrKoUt/hIkE.
 
 
 - 🔭 I’m currently working on my master's thesis which is on visual analysis of mobile sensing data to correlate it with mental health. 
