@@ -1,7 +1,5 @@
-### Hi there, I'm Muzzu...👋
-India🇮🇳-Canada🇨🇦
-
-[about_me](https://mohd-muzamil.netlify.app): I like to coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️
+### Hi👋, I'm Muzzu.
+[about_me](https://mohd-muzamil.netlify.app): IND🇮🇳 CAN🇨🇦 coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️
 
 - :scroll: Master of Computer Science (MCS), Dalhousie University, Canada
 - 🔭 I’m currently working on my master's thesis which is on visual analysis of mobile sensing data to correlate it with mental health. 
