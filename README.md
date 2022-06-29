@@ -1,5 +1,9 @@
 <!--**mohd-muzamil/mohd-muzamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-### Hi👋, I'm [Muzzu](https://mohd-muzamil.netlify.app)
+### Hi👋, I'm [Muzzu](https://mohd-muzamil.netlify.app)    
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mohd-muzamil.mohd-muzamil)
+![](https://komarev.com/ghpvc/?username=mohd-muzamil&color=green&style=flat-square)
+
  IND🇮🇳 CAN🇨🇦 coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man: 
 
 - :scroll: Master of Computer Science (MCS), Dalhousie University, Canada
@@ -9,13 +13,16 @@
 - :octocat: Open to collaborate : Projects in ML(Audio/Video/Image processing, NLP, Healthcare analytics) or Data visualization using Javascript.
 - :telescope: Something I've been wanting do : build a blog to share my learning, thoughts and ideas.
 
-:postbox:mohd.muzamil.08[at]outlook[dot]com [Linkedin Badge](http://linkedin.com/in/mohd11/)    ![visitors](https://visitor-badge.glitch.me/badge?page_id=mohd-muzamil.mohd.muzamil)
+:postbox:mohd.muzamil.08[at]outlook[dot]com [Linkedin Badge](http://linkedin.com/in/mohd11/)
+
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
 
 <details>	
   <summary><b>Github Stats</b></summary>
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohd-muzamil&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-muzamil&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohd-muzamil&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-muzamil&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 
