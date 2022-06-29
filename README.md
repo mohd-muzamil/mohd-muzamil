@@ -1,5 +1,5 @@
 <!--**mohd-muzamil/mohd-muzamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-### Hi👋, I'm [Muzzu](https://mohd-muzamil.netlify.app) &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Hi👋, I'm [Muzzu](https://mohd-muzamil.netlify.app) ![visitors](https://visitor-badge.glitch.me/badge?page_id=mohd-muzamil.mohd.muzamil)
  IND🇮🇳 CAN🇨🇦 coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man: 
 
 - :scroll: Master of Computer Science (MCS), Dalhousie University, Canada
