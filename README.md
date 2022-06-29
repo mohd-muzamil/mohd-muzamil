@@ -1,7 +1,7 @@
 ### Hi there 👋
-Fun fact [about_me](https://mohd-muzamil.netlify.app): I like to coDe/ruN/wOrKoUt/hIkE.
+Fun fact [about_me](https://mohd-muzamil.netlify.app): I like to coDe💻ruN🏃wOrKoUt🏋️‍♂️hIkE🧗.
 
-- 🧑‍💻 Master of Computer Science (MCS), Dalhousie University, Canada
+- 🧑‍🎓Master of Computer Science (MCS), Dalhousie University, Canada
 - 🔭 I’m currently working on my master's thesis which is on visual analysis of mobile sensing data to correlate it with mental health. 
   <br> Have a sneak peak of the visual techniques implemented [here](https://github.com/mohd-muzamil/IrisDashboard.git):(Visual analysis of IRIS dataset) [Demo](https://explorata.herokuapp.com) 
   <br> and [here](https://github.com/mohd-muzamil/flaskDashboard.git):(Implementation using Randomly generated mobile sensing dataset since original dataset is private)
