@@ -73,5 +73,4 @@ coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man:
 
 
 ![](https://readme-jokes.vercel.app/api)
-<span class="badge rounded-pill shadow badge-tech">outlook</span>
 [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?&logo=linkedin)](http://linkedin.com/in/mohd11/) mohd.muzamil.08[at]outlook[dot]com
