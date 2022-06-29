@@ -10,13 +10,12 @@
 - :octocat: Open to collaborate : Projects in ML(Audio/Video/Image processing, NLP, Healthcare analytics) or Data visualization using Javascript.
 - :telescope: Something I've been wanting do : build a blog to share my learning, thoughts and ideas.
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=mohd-muzamil&show_icons=true)
 
 <details>	
   <summary><b>Github Stats</b></summary>
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohd-muzamil&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-muzamil&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-muzamil&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
 </details>
 
 
@@ -74,6 +73,10 @@
 
 
 ![](https://readme-jokes.vercel.app/api)
+<a href="https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python" />
+</a>
+Made with [contributors-img](https://contrib.rocks).
 
 
 :postbox:mohd.muzamil.08[at]outlook[dot]com 
