@@ -1,10 +1,8 @@
 <!--**mohd-muzamil/mohd-muzamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-### Hi👋, I'm [Muzzu](https://mohd-muzamil.netlify.app)    
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mohd-muzamil.mohd-muzamil)
-![](https://komarev.com/ghpvc/?username=mohd-muzamil&color=green&style=flat-square)
-
+### Hi👋, I'm [Muzzu](https://mohd-muzamil.netlify.app)    ![](https://komarev.com/ghpvc/?username=mohd-muzamil&color=green&style=flat-square)
  IND🇮🇳 CAN🇨🇦 coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man: 
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 - :scroll: Master of Computer Science (MCS), Dalhousie University, Canada
 - :chart_with_upwards_trend: I’m currently working on my master's thesis which is on visual analysis of mobile sensing data to correlate it with mental health. 
