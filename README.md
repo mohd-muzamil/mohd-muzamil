@@ -1,5 +1,5 @@
 <!--**mohd-muzamil/mohd-muzamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-### Hi👋, I'm [Muzzu](https://mohd-muzamil.netlify.app).
+### Hi👋, I'm [Muzzu](https://mohd-muzamil.netlify.app) &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
  IND🇮🇳 CAN🇨🇦 coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man: 
 
 - :scroll: Master of Computer Science (MCS), Dalhousie University, Canada
@@ -9,4 +9,4 @@
 - :octocat: Open to collaborate : Projects in ML(Audio/Video/Image processing, NLP, Healthcare analytics) or Data visualization using Javascript.
 - :telescope: Something I've been wanting do : build a blog to share my learning, thoughts and ideas.
 
-:postbox:mohd.muzamil.08[at]outlook[dot]com [LinkedIn](http://linkedin.com/in/mohd11/)
+:postbox:mohd.muzamil.08[at]outlook[dot]com [Linkedin Badge](http://linkedin.com/in/mohd11/)
