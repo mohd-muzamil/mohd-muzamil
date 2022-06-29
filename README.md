@@ -10,7 +10,7 @@
 - :octocat: Open to collaborate : Projects in ML(Audio/Video/Image processing, NLP, Healthcare analytics) or Data visualization using Javascript.
 - :telescope: Something I've been wanting do : build a blog to share my learning, thoughts and ideas.
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=mohd-muzamil&show_icons=true)
 
 <details>	
   <summary><b>Github Stats</b></summary>
