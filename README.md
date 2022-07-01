@@ -1,4 +1,4 @@
-### Hi, I'm Muzzu,
+### Hi, I'm Muzzu.
 <!--[Muzzu](https://mohd-muzamil.netlify.app),-->
 Few things I enjoy: coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man: 
 
