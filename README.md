@@ -1,4 +1,5 @@
-### Hi, I'm [Muzzu](https://mohd-muzamil.netlify.app),
+### Hi, I'm Muzzu,
+//[Muzzu](https://mohd-muzamil.netlify.app),
 Few things I enjoy: coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man: 
 
 - :scroll: Master of Computer Science (MCS), Dalhousie University, Canada
