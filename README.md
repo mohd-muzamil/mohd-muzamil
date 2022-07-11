@@ -4,7 +4,7 @@ Few things I enjoy: coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbA
 
 - :scroll: Master of Computer Science (MCS), Dalhousie University, Canada
 - :chart_with_upwards_trend: I recently defended my master's thesis which is on visual analysis of mobile sensing data to correlate it with mental health. 
-  <br> Have a sneak peak of the visual techniques implemented (Visual analysis of IRIS dataset)[code](https://github.com/mohd-muzamil/IrisDashboard.git) [demo](https://explorata.herokuapp.com)
+  <br> Have a sneak peak of the visual techniques implemented (Visual analysis of IRIS dataset)[repo](https://github.com/mohd-muzamil/IrisDashboard.git) [demo](https://explorata.herokuapp.com)
   <br> and (Randomly generated mobile sensing data)[repo](https://github.com/mohd-muzamil/flaskDashboard.git) demo(not yet deployed)
 - :octocat: Open to collaborate : Projects in ML(Audio/Video/Image processing, NLP, Healthcare analytics) or Data visualization using Javascript.
 - :telescope: Something I've been wanting do : build a blog to share my learning, thoughts and ideas.
