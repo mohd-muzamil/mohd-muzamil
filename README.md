@@ -73,6 +73,6 @@ Few things I enjoy: coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbA
 
 ![](https://readme-jokes.vercel.app/api)
 
-### Contact:
-:envelope: mohd.muzamil.08[at]gmail[dot]com 
+#### Contact:
+:envelope: mohd.muzamil.08 [at] gmail [dot] com 
 [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?&logo=linkedin)](http://linkedin.com/in/mohd11/) 
