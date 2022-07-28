@@ -1,4 +1,5 @@
-### Hi, I'm Muzzu. ![](https://komarev.com/ghpvc/?username=mohd-muzamil&color=green&style=flat-square)
+![](https://komarev.com/ghpvc/?username=mohd-muzamil&color=green&style=flat-square)
+### Hi, I'm Muzzu.
 <!--[Muzzu](https://mohd-muzamil.netlify.app),-->
 Few things I enjoy: coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man: 
 
