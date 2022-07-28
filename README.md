@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=mohd-muzamil&color=green&style=flat-square)
 ### Hi, I'm Muzzu.
-<!--[Muzzu](https://mohd-muzamil.netlify.app),-->
+[Portfolio](http://mohd-muzamil.github.io),
 Few things I enjoy: coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man: 
 
 - :scroll: Master of Computer Science (MCS), Dalhousie University, Canada
