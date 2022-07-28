@@ -2,6 +2,10 @@
 <!--[Muzzu](https://mohd-muzamil.netlify.app),-->
 Few things I enjoy: coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbAll:basketball_man: 
 
+:envelope: mohd.muzamil.08[at]gmail[dot]com 
+[![LinkedIn](https://img.shields.io/badge/-linkedin-blue?&logo=linkedin)](http://linkedin.com/in/mohd11/) 
+![](https://komarev.com/ghpvc/?username=mohd-muzamil&color=green&style=flat-square)
+
 - :scroll: Master of Computer Science (MCS), Dalhousie University, Canada
 - :chart_with_upwards_trend: I recently defended my master's thesis which is on visual analysis of mobile sensing data to correlate it with mental health. 
   <br> Have a sneak peak of the visual techniques implemented (Visual analysis of IRIS dataset) 
@@ -71,7 +75,3 @@ Few things I enjoy: coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbA
 </details>
 
 ![](https://readme-jokes.vercel.app/api)
-
-:envelope: mohd.muzamil.08[at]outlook[dot]com 
-[![LinkedIn](https://img.shields.io/badge/-linkedin-blue?&logo=linkedin)](http://linkedin.com/in/mohd11/) 
-![](https://komarev.com/ghpvc/?username=mohd-muzamil&color=green&style=flat-square)
