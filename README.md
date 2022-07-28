@@ -8,7 +8,7 @@ Few things I enjoy: coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbA
   <br> [video](https://www.youtube.com/watch?v=xHMLt8pg9e8) | [repo](https://github.com/mohd-muzamil/IrisDashboard.git) | [demo](https://explorata.herokuapp.com)
   <br> and (Randomly generated mobile sensing data)
   <br> [repo](https://github.com/mohd-muzamil/flaskDashboard.git) | demo(not yet deployed)
-- :octocat: Open to collaborate : Projects in ML(Audio/Video/Image processing, NLP, Healthcare analytics) or Data visualization using Javascript.
+- :octocat: Open to collaborate : Projects in ML(Audio/Video/Image processing, NLP, Healthcare analytics, Forecasting/Anamoly Detection) or Data visualization using Javascript.
 - :telescope: Something I've been wanting do : build a blog to share my learning, thoughts and ideas.
 
 <details>
