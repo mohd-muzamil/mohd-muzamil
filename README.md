@@ -28,6 +28,14 @@ Few things I enjoy: coDe💻 ruN🏃 wOrKoUt🏋️‍♂️ hIkE⛰️ baSketbA
       </tr>
     </thead>
     <tbody>
+    <tr>
+        <td><a href="https://github.com/mohd-muzamil/ML_DL"><b>MachineLearning/DeepLearning Projects</b></a></td>
+<!--         <td><img alt="Stars" src="https://img.shields.io/github/stars/mohd-muzamil/IrisDashboard?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Forks" src="https://img.shields.io/github/forks/mohd-muzamil/IrisDashboard?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Issues" src="https://img.shields.io/github/issues/mohd-muzamil/IrisDashboard?style=flat-square"/></td> -->
+<!--         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohd-muzamil/IrisDashboard?style=flat-square"/></td> -->
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohd-muzamil/IrisDashboard?style=flat-square"/></td>
+      </tr>
       <tr>
         <td><a href="https://github.com/mohd-muzamil/IrisDashboard"><b>Explorata</b></a></td>
 <!--         <td><img alt="Stars" src="https://img.shields.io/github/stars/mohd-muzamil/IrisDashboard?style=flat-square&labelColor=343b41"/></td> -->
