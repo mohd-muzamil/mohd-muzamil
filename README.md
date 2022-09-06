@@ -24,7 +24,7 @@ Few things I enjoy outside work: Code💻 Run🏃 Workout🏋️‍♂️ Hike�
 <!--         <td><b>Forks</b></td> -->
 <!--         <td><b>Issues</b></td> -->
 <!--         <td><b>Pull Requests</b></td> -->
-        <td><b>Language</b></td>
+<!--         <td><b>Language</b></td> -->
       </tr>
     </thead>
     <tbody>
@@ -34,7 +34,7 @@ Few things I enjoy outside work: Code💻 Run🏃 Workout🏋️‍♂️ Hike�
 <!--         <td><img alt="Forks" src="https://img.shields.io/github/forks/mohd-muzamil/IrisDashboard?style=flat-square&labelColor=343b41"/></td> -->
 <!--         <td><img alt="Issues" src="https://img.shields.io/github/issues/mohd-muzamil/IrisDashboard?style=flat-square"/></td> -->
 <!--         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohd-muzamil/IrisDashboard?style=flat-square"/></td> -->
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohd-muzamil/IrisDashboard?style=flat-square"/></td>
+<!--         <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohd-muzamil/IrisDashboard?style=flat-square"/></td> -->
       </tr>
       <tr>
         <td><a href="https://github.com/mohd-muzamil/IrisDashboard"><b>Explorata</b></a></td>
@@ -50,7 +50,7 @@ Few things I enjoy outside work: Code💻 Run🏃 Workout🏋️‍♂️ Hike�
 <!--         <td><img alt="Forks" src="https://img.shields.io/github/forks/mohd-muzamil/flaskDashboard?style=flat-square&labelColor=343b41"/></td> -->
 <!--         <td><img alt="Issues" src="https://img.shields.io/github/issues/mohd-muzamil/flaskDashboard?style=flat-square"/></td> -->
 <!--         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohd-muzamil/flaskDashboard?style=flat-square"/></td> -->
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohd-muzamil/flaskDashboard?style=flat-square"/></td>
+<!--         <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohd-muzamil/flaskDashboard?style=flat-square"/></td> -->
       </tr>
       <tr>
         <td><a href="https://github.com/mohd-muzamil/changeMyPet"><b>Change My Pet</b></a></td>
@@ -58,7 +58,7 @@ Few things I enjoy outside work: Code💻 Run🏃 Workout🏋️‍♂️ Hike�
 <!--         <td><img alt="Forks" src="https://img.shields.io/github/forks/mohd-muzamil/changeMyPet?style=flat-square&labelColor=343b41"/></td> -->
 <!--         <td><img alt="Issues" src="https://img.shields.io/github/issues/mohd-muzamil/changeMyPet?style=flat-square"/></td> -->
 <!--         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohd-muzamil/changeMyPet?style=flat-square"/></td> -->
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohd-muzamil/changeMyPet?style=flat-square"/></td>
+<!--         <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohd-muzamil/changeMyPet?style=flat-square"/></td> -->
       </tr>
       <tr>
         <td><a href="https://github.com/mohd-muzamil/Dashboard-Analysis-of-Traffic-incidents-in-UK"><b>Dashboard - Traffic incidents(UK)</b></a></td>
@@ -66,7 +66,7 @@ Few things I enjoy outside work: Code💻 Run🏃 Workout🏋️‍♂️ Hike�
 <!--         <td><img alt="Forks" src="https://img.shields.io/github/forks/mohd-muzamil/Dashboard-Analysis-of-Traffic-incidents-in-UK?style=flat-square&labelColor=343b41"/></td> -->
 <!--         <td><img alt="Issues" src="https://img.shields.io/github/issues/mohd-muzamil/Dashboard-Analysis-of-Traffic-incidents-in-UK?style=flat-square"/></td> -->
 <!--         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohd-muzamil/Dashboard-Analysis-of-Traffic-incidents-in-UK?style=flat-square"/></td> -->
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohd-muzamil/Dashboard-Analysis-of-Traffic-incidents-in-UK?style=flat-square"/></td> 
+<!--         <td><img alt="Language" src="https://img.shields.io/github/languages/top/mohd-muzamil/Dashboard-Analysis-of-Traffic-incidents-in-UK?style=flat-square"/></td>  -->
       </tr>
     </tbody>
   </table>
