@@ -14,7 +14,7 @@ Few things I enjoy outside work: Code💻 Run🏃 Workout🏋️‍♂️ Hike�
 - :telescope: Something I've been wanting do : build a blog to share my learning, thoughts and ideas.
 
 <details>
-  <summary><b>Projects</b></summary>
+  <summary><b>Select Projects</b></summary>
   <br />
   <table>
     <thead align="center">
