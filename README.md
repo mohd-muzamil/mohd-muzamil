@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=mohd-muzamil&color=green&style=flat-square)
 ### Hi, I'm Muzzu.
-[Portfolio](http://mohd-muzamil.github.io)
+[Portfolio](http://mohd-muzamil.ca)
 
 Few things I enjoy outside work: Code💻 Run🏃 Workout🏋️‍♂️ Hike⛰️ Basketball:basketball_man: 
 
