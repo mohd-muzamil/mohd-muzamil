@@ -3,7 +3,7 @@
 I'm Muzzu.
 [Portfolio](http://mohd-muzamil.ca)
 
-Few things I enjoy outside work: Code💻 Run🏃 Workout🏋️‍♂️ Hike⛰️ Basketball:basketball_man: 
+Few things I enjoy: Code💻 Run🏃 Workout🏋️‍♂️ Hike⛰️ Basketball:basketball_man: 
 
 - :scroll: Master of Computer Science (MCS), Dalhousie University, Canada
 - :chart_with_upwards_trend: I recently defended my master's thesis which is on visual analysis of mobile sensing data to correlate it with mental health. 
